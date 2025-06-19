@@ -1,6 +1,6 @@
 # Historical_Earthquake_Dataset
 <p align="justify">
-This dataset contains epicenters and event information for around 45'000 earthquakes occurring between the years 10 and 2025 AD. The dataset combines 3 different sources featuring earthquakes with magnitudes of 5.5 and above. It provides the user with a comprehensive view of past seismicity for an area of interest.
+This dataset contains epicenters and event information for +45'000 earthquakes occurring between the years 10 and 2025 AD. The dataset combines 3 different sources featuring earthquakes with magnitudes of 5.5 and above. It provides the user with a comprehensive view of past seismicity for an area of interest.
 </p>
 
 # Dataset Description
